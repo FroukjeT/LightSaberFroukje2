@@ -1,9 +1,8 @@
-using System.Security.Cryptography;
-using System.Threading;
 using UnityEngine;
 
 public class MovingCube : MonoBehaviour
 {
+    public Vector3 requiredDirection;
 
     // Update is called once per frame
     void Update()
