@@ -123,7 +123,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 04364be11a06cd94f9edc490b281023b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  requiredDirection: {x: 0, y: 1, z: 0}
+  requiredDirection: {x: 1, y: 0, z: 0}
 --- !u!54 &2208660229521479808
 Rigidbody:
   m_ObjectHideFlags: 0
