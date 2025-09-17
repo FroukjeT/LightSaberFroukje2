@@ -25,7 +25,7 @@ public class CubeSpawner : MonoBehaviour
 
             Instantiate(prefab, point.position, point.rotation); //this spawns the prefab at the spawn point
 
-            yield return new WaitForSeconds(1f);
+            yield return new WaitForSeconds(0.571f);
 
         }
     }
